@@ -1,3 +1,4 @@
 $(document).ready(function() {
-   $('#welcome').fadeOut(1500);
+   $('#welcome').fadeOut(2000);
+   
 });
