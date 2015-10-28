@@ -41,5 +41,33 @@ list-style-type: none;
 }
 	
 li {
-margin: 0 0 0 40px; 
+	margin: 0 0 0 40px; 
 }
+
+#pictures {
+	width: 400px;
+    height: 400px;
+    margin: 50px;
+} 
+
+.owe {
+ font-weight: bold;
+ font-size: 20px;
+ text-align: center;
+ 
+}
+
+#pot1 {
+	font-weight: bold;
+ font-size: 30px;
+ text-align: center;
+	}
+	
+#pot2{
+	margin: 0 0 0 60px;
+
+	}
+	
+#transfer1{
+	margin: 0 0 0 110px;
+	}
